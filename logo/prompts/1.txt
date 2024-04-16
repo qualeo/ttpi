@@ -1,0 +1,1 @@
+A simple, abstract shape that incorporates the concept of growth or evolution.
